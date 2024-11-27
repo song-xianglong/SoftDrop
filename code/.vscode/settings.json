@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "macro.C": "cpp",
+        "condition_variable": "cpp"
+    }
+}

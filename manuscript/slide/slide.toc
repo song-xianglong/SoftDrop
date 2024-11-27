@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Grooming}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{Soft Drop Algorithm}{5}{0}{2}
+\beamer@sectionintoc {3}{Photon Isolation}{6}{0}{3}
+\beamer@subsectionintoc {3}{1}{Procedure}{6}{0}{3}
+\beamer@subsectionintoc {3}{2}{Some Observables}{7}{0}{3}
+\beamer@sectionintoc {4}{Parton Shower Study}{9}{0}{4}
