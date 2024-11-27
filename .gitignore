@@ -3,3 +3,5 @@
 
 # 忽略 .history 文件夹及其内容
 .history/
+
+.vscode/
